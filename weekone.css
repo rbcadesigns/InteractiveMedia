@@ -7,15 +7,16 @@
   width: 100px;
   height: 200px;
 }
-
       
   iframe {
     position: fixed;
+    /*
     top: 10%;
     left: 30%;
     width: 100vw;
     height: 100vh;
     transform: translate(-10%, -30%);
+    */
   }
 
 /* Making the YouTube video full screen */
