@@ -20,6 +20,7 @@
     width: 100vw;
     height: 100vh;
     transform: translate(-50%, -50%);
+    background-attachment: fixed;
   }
 
 /* Making the YouTube video full screen */
@@ -35,6 +36,7 @@
     .video-container iframe {
       /* width = 100 / (9 / 16) = 177.777777 */
       width: 177.78vh;
+      background-attachment: fixed;
     }
   }
 
