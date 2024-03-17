@@ -15,7 +15,8 @@
       
   iframe {
     position: fixed;
-    top: 30%;
+    /* top: 30%; */
+    top: 50%;
     left: 30%;
     width: 100vw;
     height: 100vh;
