@@ -3,6 +3,12 @@ img {
     border-color:transparent;
 }
 
+.madimi-one-regular {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
     background-image: url(Workbook/Images/underwater-bg.gif);
     background-repeat: no-repeat;
@@ -11,7 +17,9 @@ body {
 
 p{
     color:rgb(255, 255, 255);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size:larger;
     text-align: center;
 }
@@ -34,7 +42,9 @@ strong {
 
   h1 {
     color:rgb(255, 252, 62);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     text-align: center;
     padding: 20px;
   }
