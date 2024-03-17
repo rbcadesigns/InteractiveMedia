@@ -18,7 +18,6 @@ body {
 p{
     color:rgb(255, 255, 255);
     font-family: "Madimi One", sans-serif;
-    font-weight: 400;
     font-style: normal;
     font-size:larger;
     text-align: center;
@@ -30,7 +29,7 @@ p {
   }
 
 strong {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Madimi One", sans-serif;
     text-align: center;
     font-size:larger;
 }
@@ -43,7 +42,6 @@ strong {
   h1 {
     color:rgb(255, 252, 62);
     font-family: "Madimi One", sans-serif;
-    font-weight: 400;
     font-style: normal;
     text-align: center;
     padding: 20px;
