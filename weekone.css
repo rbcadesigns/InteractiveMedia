@@ -3,6 +3,11 @@
     background-color: aquamarine;
 }
 
+.BBC{
+  width: 100px;
+  height: 200px;
+}
+
 .video-container{
     width: 100vw;
     height: 100vh;
