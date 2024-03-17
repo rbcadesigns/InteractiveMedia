@@ -11,11 +11,11 @@
       
   iframe {
     position: fixed;
-    top: 20%;
+    top: 10%;
     left: 30%;
     width: 100vw;
     height: 100vh;
-    transform: translate(-30%, -30%);
+    transform: translate(-10%, -30%);
   }
 
 /* Making the YouTube video full screen */
