@@ -40,6 +40,24 @@
     transform: translate(-50%, -50%);
   }
   
+
+/* Removes the default grey box around buttons */
+button {
+  border: none;
+  cursor: pointer;
+  appearance: none;
+  background-color: inherit;
+  font-family: "Madimi One", sans-serif;
+}
+
+
+.backhome{
+  display:flex;
+  float:left;
+  margin-left:50px;
+  padding-right: 5%;
+}
+
 h1{
   font-family: "Madimi One", sans-serif;
 }
