@@ -34,15 +34,6 @@
     }
   }
 
-  #text-overlay{
-    position: absolute;
-    color: #FFFFFF;
-    left: 30%;
-    top: 30%;
-    transform: translate(-30%, -30%);
-  }
-  
-
 /* Removes the default grey box around buttons */
 button {
   border: none;
