@@ -50,7 +50,7 @@ button {
   font-family: "Madimi One", sans-serif;
 }
 
-
+/* id for back to home button */
 .backhome{
   display:flex;
   float:left;
