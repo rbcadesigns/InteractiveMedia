@@ -38,7 +38,7 @@
   }
 
   #text-overlay{
-    /*position: absolute;*/
+    position: absolute;
     color: #FFFFFF;
     left: 30%;
     top: 30%;
