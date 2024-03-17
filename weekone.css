@@ -49,6 +49,3 @@ h2{
   font-weight: 400;
   font-style: normal;
 }
-
-/* Use the :hover selector on tr to highlight table rows on mouse over */
-tr:hover {background-color: #020069;}
