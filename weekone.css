@@ -40,9 +40,9 @@
   #text-overlay{
     position: absolute;
     color: #FFFFFF;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    left: 30%;
+    top: 30%;
+    transform: translate(-30%, -30%);
   }
   
 
