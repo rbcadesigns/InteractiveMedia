@@ -1,5 +1,5 @@
 .hg{
-    color:blue;
+    color:rgb(123, 255, 0);
     background-color: aquamarine;
 }
 
@@ -56,6 +56,10 @@ button {
   float:left;
   margin-left:50px;
   padding-right: 5%;
+}
+
+.watch{
+  font-family: "Madimi One", sans-serif;
 }
 
 h1{
