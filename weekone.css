@@ -53,3 +53,7 @@ tr{
   width: 400px;
   height: auto;
 }
+
+.gestures-title{
+  text-align: left;
+}
