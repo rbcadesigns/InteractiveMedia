@@ -1,0 +1,5 @@
+/* Custom Cursor
+Change the code --> your image/gif */
+* {
+    cursor:url("Workbook/Images/fish-cursor.gif"), auto;
+    }
