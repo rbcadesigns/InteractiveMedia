@@ -52,6 +52,7 @@ tr{
 .speculative-hci{
   width: 400px;
   height: auto;
+  align-content: center;
 }
 
 .gestures-title{
