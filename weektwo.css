@@ -1,0 +1,19 @@
+/* Removes the default grey box around buttons */
+button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+    color: rgb(11, 184, 155);
+    font-family: "Madimi One", sans-serif;
+  }
+  
+  /* id for back to home button */
+  .home-button{
+    display:flex;
+    float:left;
+    margin-left:50px;
+    padding-right: 5%;
+  }
+
+  
