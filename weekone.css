@@ -39,3 +39,7 @@ h2{
   font-weight: 400;
   font-style: normal;
 }
+
+table{
+  padding-left: 5em;
+}
