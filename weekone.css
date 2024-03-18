@@ -61,5 +61,5 @@ tr{
 }
 
 .number-img{
-  align-items: end;
+  float: right;
 }
