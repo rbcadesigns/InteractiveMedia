@@ -8,6 +8,10 @@
   height: 200px;
 }
 
+body {
+  cursor: url('Workbook/Images/fish-cursor.gif'), auto;
+}
+
 /* Removes the default grey box around buttons */
 button {
   border: none;
