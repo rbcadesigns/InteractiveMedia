@@ -1,3 +1,9 @@
+/* Custom Cursor
+Change the code --> your image/gif */
+* {
+cursor:url("Workbook/Images/fish-cursor.gif"), auto;
+}
+
 /* Removes the default grey box around buttons */
 button {
     border: none;
