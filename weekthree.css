@@ -2,8 +2,9 @@
 Change the code --> your image/gif */
 body {
     cursor: url('Workbook/Images/fish-cursor.gif'), auto;
+    background-image: url("Workbook/Images/anime-wave.gif");
+    background-repeat: repeat;
   }
-
 
 /* Removes the default grey box around buttons */
 button {
