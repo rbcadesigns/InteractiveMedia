@@ -161,7 +161,7 @@ span:nth-child(9){
 iframe{
   align-items: center;
   border: #ffffff00;
-  border-radius: 20%;
+  border-radius: 5%;
   overflow: hidden; /* Hides real iFrame corners */
 }
 
