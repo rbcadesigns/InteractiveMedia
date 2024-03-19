@@ -158,13 +158,19 @@ span:nth-child(9){
   animation-duration: 2.75s;
 }
 
-/* Hunt n Gather class - but idk what to do w it...
-  .hg{
-
-  }
-*/
+iframe{
+  align-items: center;
+  border: #ffffff00;
+  border-radius: 20%;
+  overflow: hidden; /* Hides real iFrame corners */
+}
 
 .subheading{
   text-align: left;
   font-family: "Madimi One", sans-serif;
+}
+
+/* Hunt n' Gather*/
+.hg{
+  padding: 30px;
 }
