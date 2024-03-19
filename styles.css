@@ -19,6 +19,18 @@ body {
   cursor: url('Workbook/Images/fish-cursor.gif'), auto;
 }
 
+.aladin-regular {
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.summary{
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 img {
     border: none; 
     border-color:transparent;
