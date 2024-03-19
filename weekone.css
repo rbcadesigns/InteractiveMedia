@@ -110,3 +110,11 @@ strong{
   font-style: normal;
   font-size: large;
 }
+
+#gesture-description{
+  text-align: left;
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger;
+}
