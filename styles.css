@@ -53,11 +53,6 @@ p{
     text-align: center;
 }
 
-/* The "overflow: hidden" property on the "p" tag is to clear the float so that the following content is not affected by it. */
-p {
-    overflow: hidden;
-  }
-
 strong {
     font-family: "Madimi One", sans-serif;
     text-align: center;
