@@ -174,7 +174,7 @@ span:nth-child(9){
   animation-duration: 2.75s;
 }
 
-iframe{
+.web-embed{
   align-items: center;
   border: #ffffff00;
   border-radius: 5%;
