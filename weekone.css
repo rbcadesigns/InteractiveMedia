@@ -10,6 +10,7 @@
 
 body {
   cursor: url('Workbook/Images/fish-cursor.gif'), auto;
+  position: fixed;
 }
 
 /* YT Video Background*/
