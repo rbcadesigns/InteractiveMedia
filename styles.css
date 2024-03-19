@@ -96,7 +96,6 @@ h2 {
     display:flex;
     float:left;
     margin: 50px;
-    transform: rotate(10deg);
     padding-right: 5%;
 }
 
@@ -104,7 +103,6 @@ h2 {
     display:flex;
     float:left;
     margin: 50px;
-    transform: rotate(-20deg);
 }
 
 /* creating a draggable interface */
