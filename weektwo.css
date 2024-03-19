@@ -23,6 +23,22 @@ button {
     padding-right: 5%;
   }
   
+
+  .striped-background {
+    height:50vh;
+    background: repeating-linear-gradient(
+    -45deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+    );
+    background-size: 100% 14px;
+    }
+
 /* Shooting Stars */
 *
 {
