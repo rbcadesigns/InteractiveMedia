@@ -96,21 +96,21 @@ h2 {
 .fish{
     display:flex;
     float:left;
-    margin:80px;
+    margin:40px;
     padding-right: 5%;
 }
 
 .crab{
     display:flex;
     float:left;
-    margin: 80px;
+    margin: 40px;
     padding-right: 5%;
 }
 
 .diver{
     display:flex;
     float:left;
-    margin: 80px;
+    margin: 40px;
 }
 
 /* creating a draggable interface */
