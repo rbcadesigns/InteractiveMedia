@@ -31,9 +31,6 @@ button {
   box-sizing: border-box;
 }
 
-body{
-  overflow: hidden;
-}
 section{
   position: absolute;
   top: 0;
