@@ -12,6 +12,35 @@ body {
   cursor: url('Workbook/Images/fish-cursor.gif'), auto;
 }
 
+/* Striped background */
+striped-background {
+
+  height:50vh;
+  
+  background: repeating-linear-gradient(
+  
+  -45deg,
+  
+  red,
+  
+  orange,
+  
+  yellow,
+  
+  green,
+  
+  blue,
+  
+  indigo,
+  
+  violet
+  
+  );
+  
+  background-size: 100% 14px;
+  
+  }
+
 /* Removes the default grey box around buttons */
 button {
   border: none;
