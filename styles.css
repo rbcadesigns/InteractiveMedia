@@ -74,13 +74,14 @@ strong {
     font-family: "Madimi One", sans-serif;
     font-style: normal;
     text-align: center;
-    padding: 20px;
+    padding-left: 20px;
   }
 
 h2 {
     color: #73b0ff;
     font-family: "Madimi One", sans-serif;
     text-align: center;
+    padding-left: 20px;
 }
 
 /* Removes the default grey box around buttons */
