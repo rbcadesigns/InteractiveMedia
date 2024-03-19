@@ -95,14 +95,14 @@ h2 {
 .crab{
     display:flex;
     float:left;
-    margin: 50px;
+    margin: 80px;
     padding-right: 5%;
 }
 
 .diver{
     display:flex;
     float:left;
-    margin: 50px;
+    margin: 80px;
 }
 
 /* creating a draggable interface */
